@@ -1,0 +1,23 @@
+body {
+
+    background-image: url(https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/marketplace/Homepage_Hero-A-1200_Summer-Celebration_1800x1080_01.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+
+h1 {
+
+    background: linear-gradient(to left, red, blue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+p {
+
+    background: linear-gradient(to left, red, blue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

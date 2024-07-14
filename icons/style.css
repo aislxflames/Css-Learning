@@ -1,0 +1,48 @@
+body {
+    display: flexbox;
+    margin: 0px;
+}
+
+.fa-house-fire {
+    color: teal;
+}
+
+.fa-youtube {
+    color: red;
+}
+
+.fa-github-alt {
+    color: blue;
+}
+
+.top-bar {
+    background-color: gainsboro;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+.top-bar h1 {
+
+    font-size: 20px;
+    align-items: center;
+    right: 50%;
+    text-align: left;
+}
+
+.top-bar span {
+    margin-left: 20px;
+    align-content: center;
+}
+
+.top-bar a {
+    margin: 10px;
+}
+
+.top-bar img {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    right: 50%;
+}

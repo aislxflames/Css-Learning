@@ -1,0 +1,15 @@
+p {
+    border-style: outset;
+    border-width: 20px;
+    border-color: gold;
+    border-radius: 40px;
+}
+
+h1 {
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-right-style: outset;
+    border-left-style: outset;
+    border-radius: 100px;
+    border-width: 10px;
+}
